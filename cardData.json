@@ -1,0 +1,16 @@
+{
+  "CardNumber": "1234567891011123",
+  "ExpiryDate": "12/25",
+  "Pin": "1234",
+  "cvc":  "123",
+  "Balance": 7176.50,
+  "EuroBalance": 1173.00,
+  "DollarBalance": 1650.00,
+  "TransactionHistory": [
+    "10/20/2024 8:14:21 PM: Deposited 4000 GEL",
+    "10/20/2024 8:14:30 PM: Withdrew 500 GEL",
+    "10/20/2024 8:22:11 PM: Viewed balance",
+    "10/20/2024 8:22:19 PM: Withdrew 200 USD",
+    "10/20/2024 8:22:28 PM: Changed PIN"
+  ]
+}

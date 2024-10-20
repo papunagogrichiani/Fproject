@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4w1X0nNdX5k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\papun\\source\\repos\\project\\project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\papun\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\papun\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512",
+    "C:\\Users\\papun\\.nuget\\packages\\nlog.schema\\5.3.4\\nlog.schema.5.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}

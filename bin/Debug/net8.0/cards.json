@@ -1,0 +1,12 @@
+[
+  {
+    "CardNumber": "1234567890123456",
+    "ExpiryDate": "12/25",
+    "Pin": "1111",
+    "Balance": 4500.0,
+    "TransactionHistory": [
+      "Withdrew: 500",
+      "Deposited: 4000"
+    ]
+  }
+]

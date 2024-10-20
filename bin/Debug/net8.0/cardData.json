@@ -1,0 +1,14 @@
+{
+  "CardNumber": "1234567891011123",
+  "ExpiryDate": "2024-12-25T00:00:00",
+  "Pin": "1111",
+  "Balance": 966.50,
+  "TransactionHistory": [
+    "2024-10-01: Deposited 500 GEL",
+    "2024-10-10: Withdrew 100 GEL",
+    "2024-10-15: Checked balance",
+    "10/19/2024 5:58:48 PM: Checked balance",
+    "10/19/2024 5:58:53 PM: Withdrew 34 GEL",
+    "10/19/2024 5:59:10 PM: Changed PIN"
+  ]
+}
